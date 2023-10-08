@@ -1,0 +1,70 @@
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+networkx
+seaborn
+requests
+statsmodels
+#contextily
+#xarray
+vptree
+cdifflib
+cogent3[extra]
+BioPython
+scikit-bio
+taxopy
+phylo-treetime
+Levenshtein
+pregex
+Cython
+#forgi
+ViennaRNA
+pendulum
+dill
+rapidfuzz
+anndata
+mudata
+more_itertools
+dash-bio
+pyro-ppl
+#geopandas 
+umap-learn
+torch 
+torchvision 
+torchaudio
+pymc
+regex
+pymsaviz
+sympy
+abydos
+dendropy
+simanneal
+pygad
+aesara
+deap
+taipy
+SplitsPy
+#squidpy
+pytest
+botorch
+treeswift
+bambi
+
+#genetic-tree
+
+#
+#
+# conda install sunode
+# conda install -c conda-forge fenics-dolfinx mpich pyvista # worked
+
+
+# conda install -c etetoolkit ete3 ete_toolchain
+#
+
+# imbalanced learn and anomaly detection libraries
+# need to fix forgi
+#conda deactivate 
+#conda remove --name testOrigins --all
+#pip install -r requirements.txt
